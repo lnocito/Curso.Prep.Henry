@@ -1,0 +1,11 @@
+Variables: Almacenan datos que pueden cambiar su valor a lo largo de la ejecucion de un programa. Existen diferentes tipos de variable y depende del tipo de dato que estas almacenen. 
+
+String: Es un tipo de dato para almacenar cadenas de caracteres como por ejemplo "Esto es un String".
+
+Funciones: las funciones son un conjunto limitado de instrucciones que pueden devolver un valor o no, algunas funciones tambien pueden requrir de un parametro, que es un dato de entrada
+utilizado por la funcion para ser procesado.
+
+Declaracion If: es una consulta para evaluar una expresion booleana (verdadero o falso) y cambiar el flujo de ejecucion del programa segun lo evaluado. 
+
+Valores booleanos: un dato Booleano puede tener solo dos valores, estos son Verdadero o Falso. 
+
